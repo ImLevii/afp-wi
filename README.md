@@ -1,1 +1,1 @@
-# Chatvia-node
+# AFP WI Chat
